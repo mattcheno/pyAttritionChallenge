@@ -47,4 +47,5 @@ for col in miVarz.inDFCatCols:
 	data = data.join(dummy.ix[:, dName:])
 	print(col)
 
+data['intercept'] = 1.0
 print(data.describe())
