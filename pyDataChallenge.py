@@ -37,7 +37,9 @@ print(dummy)
 
 ''' ===== Begin Building Model ===== '''
 data = df[miVarz.inDFIntCols]
+print('===== Integer Columns =====')
 pprint.pprint(miVarz.inDFIntCols)
+print('===== Dummy Variables =====')
 
 ''' ===== Loop through Categoricals, make dummy variables, and add 
           to the model                                                ===== '''
@@ -48,4 +50,14 @@ for col in miVarz.inDFCatCols:
 	print(col)
 
 data['intercept'] = 1.0
+print('===== Describe Model DataFrame =====')
 print(data.describe())
+print('===== Data Columns =====')
+pprint.pprint(data.columns)
+
+''' ===== Perform Regression ===== '''
+logit = sm.Logit(df['Attrition'], data)
+result = logit.fit()
+print('========== RESULTS ==========')
+print result.summary()
+
