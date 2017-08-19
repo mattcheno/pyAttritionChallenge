@@ -1,0 +1,429 @@
+﻿{
+   "sessions": [
+      {
+         "type": "saved",
+         "name": "20170819Ubuntu",
+         "generated": "2017-08-19T20:52:33.759Z",
+         "created": "2017-08-19T20:52:56.471Z",
+         "modified": "2017-08-19T20:52:56.471Z",
+         "id": 28,
+         "gid": "uO83eQnz8WszZjQIXeQKvn4SGHtr4Ust",
+         "tabs": [
+            {
+               "active": false,
+               "audible": false,
+               "autoDiscardable": true,
+               "discarded": false,
+               "favIconUrl": "https://www.google.com/images/branding/product/ico/googleg_lodp.ico",
+               "height": 664,
+               "highlighted": false,
+               "id": 45,
+               "incognito": false,
+               "index": 0,
+               "mutedInfo": {
+                  "muted": false
+               },
+               "pinned": false,
+               "selected": false,
+               "status": "complete",
+               "title": "pandas read_csv string - Google Search",
+               "url": "https://www.google.com/search?client=ubuntu&hs=C6i&q=pandas+read_csv+string&oq=pandas+read_csv+strin&gs_l=psy-ab.3.0.0l3j0i22i30k1.91105.93542.0.95208.7.7.0.0.0.0.118.646.5j2.7.0....0...1.1.64.psy-ab..0.7.642...35i39k1j0i67k1j0i20k1.oTlfzeADHak",
+               "width": 1415,
+               "windowId": 1
+            },
+            {
+               "active": false,
+               "audible": false,
+               "autoDiscardable": true,
+               "discarded": false,
+               "height": 664,
+               "highlighted": false,
+               "id": 47,
+               "incognito": false,
+               "index": 1,
+               "mutedInfo": {
+                  "muted": false
+               },
+               "pinned": false,
+               "selected": false,
+               "status": "complete",
+               "title": "Categorical Data — pandas 0.20.3 documentation",
+               "url": "https://pandas.pydata.org/pandas-docs/stable/categorical.html",
+               "width": 1415,
+               "windowId": 1
+            },
+            {
+               "active": false,
+               "audible": false,
+               "autoDiscardable": true,
+               "discarded": false,
+               "height": 664,
+               "highlighted": false,
+               "id": 49,
+               "incognito": false,
+               "index": 2,
+               "mutedInfo": {
+                  "muted": false
+               },
+               "pinned": false,
+               "selected": false,
+               "status": "complete",
+               "title": "Tutorials — pandas 0.20.3 documentation",
+               "url": "https://pandas.pydata.org/pandas-docs/stable/tutorials.html",
+               "width": 1415,
+               "windowId": 1
+            },
+            {
+               "active": false,
+               "audible": false,
+               "autoDiscardable": true,
+               "discarded": false,
+               "favIconUrl": "http://nbviewer.jupyter.org/static/ico/ipynb_icon_16x16.png",
+               "height": 664,
+               "highlighted": false,
+               "id": 51,
+               "incognito": false,
+               "index": 3,
+               "mutedInfo": {
+                  "muted": false
+               },
+               "pinned": false,
+               "selected": false,
+               "status": "complete",
+               "title": "Jupyter Notebook Viewer",
+               "url": "http://nbviewer.jupyter.org/urls/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/03%20-%20Lesson.ipynb",
+               "width": 1415,
+               "windowId": 1
+            },
+            {
+               "active": false,
+               "audible": false,
+               "autoDiscardable": true,
+               "discarded": false,
+               "height": 664,
+               "highlighted": false,
+               "id": 53,
+               "incognito": false,
+               "index": 4,
+               "mutedInfo": {
+                  "muted": false
+               },
+               "pinned": false,
+               "selected": false,
+               "status": "complete",
+               "title": "10 Minutes to pandas — pandas 0.20.3 documentation",
+               "url": "https://pandas.pydata.org/pandas-docs/stable/10min.html",
+               "width": 1415,
+               "windowId": 1
+            },
+            {
+               "active": false,
+               "audible": false,
+               "autoDiscardable": true,
+               "discarded": false,
+               "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/img/favicon.ico?v=4f32ecc8f43d",
+               "height": 664,
+               "highlighted": false,
+               "id": 55,
+               "incognito": false,
+               "index": 5,
+               "mutedInfo": {
+                  "muted": false
+               },
+               "pinned": false,
+               "selected": false,
+               "status": "complete",
+               "title": "python - Pandas reading csv as string type - Stack Overflow",
+               "url": "https://stackoverflow.com/questions/16988526/pandas-reading-csv-as-string-type",
+               "width": 1415,
+               "windowId": 1
+            },
+            {
+               "active": false,
+               "audible": false,
+               "autoDiscardable": true,
+               "discarded": false,
+               "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/img/favicon.ico?v=4f32ecc8f43d",
+               "height": 664,
+               "highlighted": false,
+               "id": 57,
+               "incognito": false,
+               "index": 6,
+               "mutedInfo": {
+                  "muted": false
+               },
+               "pinned": false,
+               "selected": false,
+               "status": "complete",
+               "title": "python - Pandas: change data type of columns - Stack Overflow",
+               "url": "https://stackoverflow.com/questions/15891038/pandas-change-data-type-of-columns",
+               "width": 1415,
+               "windowId": 1
+            },
+            {
+               "active": false,
+               "audible": false,
+               "autoDiscardable": true,
+               "discarded": false,
+               "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/img/favicon.ico?v=4f32ecc8f43d",
+               "height": 664,
+               "highlighted": false,
+               "id": 59,
+               "incognito": false,
+               "index": 7,
+               "mutedInfo": {
+                  "muted": false
+               },
+               "pinned": false,
+               "selected": false,
+               "status": "complete",
+               "title": "python - Convert Pandas series containing string to boolean - Stack Overflow",
+               "url": "https://stackoverflow.com/questions/17702272/convert-pandas-series-containing-string-to-boolean",
+               "width": 1415,
+               "windowId": 1
+            },
+            {
+               "active": false,
+               "audible": false,
+               "autoDiscardable": true,
+               "discarded": false,
+               "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/img/favicon.ico?v=4f32ecc8f43d",
+               "height": 664,
+               "highlighted": false,
+               "id": 61,
+               "incognito": false,
+               "index": 8,
+               "mutedInfo": {
+                  "muted": false
+               },
+               "pinned": false,
+               "selected": false,
+               "status": "complete",
+               "title": "python - convert entire pandas dataframe to integers in pandas (0.17.0) - Stack Overflow",
+               "url": "https://stackoverflow.com/questions/34844711/convert-entire-pandas-dataframe-to-integers-in-pandas-0-17-0",
+               "width": 1415,
+               "windowId": 1
+            },
+            {
+               "active": false,
+               "audible": false,
+               "autoDiscardable": true,
+               "discarded": false,
+               "favIconUrl": "https://www.google.com/images/branding/product/ico/googleg_lodp.ico",
+               "height": 664,
+               "highlighted": false,
+               "id": 63,
+               "incognito": false,
+               "index": 9,
+               "mutedInfo": {
+                  "muted": false
+               },
+               "pinned": false,
+               "selected": false,
+               "status": "complete",
+               "title": "pandas multivariate regression on binary outcome - Google Search",
+               "url": "https://www.google.com/search?client=ubuntu&hs=X0s&q=pandas+multivariate+regression+on+binary+outcome&oq=pandas+multivariate+regression+on+binary+out&gs_l=psy-ab.3.0.33i22i29i30k1.3574223.3591474.0.3593080.32.32.0.0.0.0.198.2939.27j5.32.0....0...1.1.64.psy-ab..0.31.2835...0i22i30k1j33i160k1._5lSqLVbQDg",
+               "width": 1415,
+               "windowId": 1
+            },
+            {
+               "active": false,
+               "audible": false,
+               "autoDiscardable": true,
+               "discarded": false,
+               "favIconUrl": "http://blog.yhat.com/static/favicon.ico",
+               "height": 664,
+               "highlighted": false,
+               "id": 65,
+               "incognito": false,
+               "index": 10,
+               "mutedInfo": {
+                  "muted": false
+               },
+               "pinned": false,
+               "selected": false,
+               "status": "complete",
+               "title": "ŷhat | Logistic Regression in Python Using Rodeo",
+               "url": "http://blog.yhat.com/posts/logistic-regression-python-rodeo.html",
+               "width": 1415,
+               "windowId": 1
+            },
+            {
+               "active": false,
+               "audible": false,
+               "autoDiscardable": true,
+               "discarded": false,
+               "favIconUrl": "https://en.wikipedia.org/static/favicon/wikipedia.ico",
+               "height": 664,
+               "highlighted": false,
+               "id": 67,
+               "incognito": false,
+               "index": 11,
+               "mutedInfo": {
+                  "muted": false
+               },
+               "pinned": false,
+               "selected": false,
+               "status": "complete",
+               "title": "Dummy variable (statistics) - Wikipedia",
+               "url": "https://en.wikipedia.org/wiki/Dummy_variable_(statistics)",
+               "width": 1415,
+               "windowId": 1
+            },
+            {
+               "active": false,
+               "audible": false,
+               "autoDiscardable": true,
+               "discarded": false,
+               "favIconUrl": "https://en.wikipedia.org/static/favicon/wikipedia.ico",
+               "height": 664,
+               "highlighted": false,
+               "id": 69,
+               "incognito": false,
+               "index": 12,
+               "mutedInfo": {
+                  "muted": false
+               },
+               "pinned": false,
+               "selected": false,
+               "status": "complete",
+               "title": "Multicollinearity - Wikipedia",
+               "url": "https://en.wikipedia.org/wiki/Multicollinearity#Remedies_for_multicollinearity",
+               "width": 1415,
+               "windowId": 1
+            },
+            {
+               "active": false,
+               "audible": false,
+               "autoDiscardable": true,
+               "discarded": false,
+               "favIconUrl": "http://hamelg.blogspot.com/favicon.ico",
+               "height": 664,
+               "highlighted": false,
+               "id": 71,
+               "incognito": false,
+               "index": 13,
+               "mutedInfo": {
+                  "muted": false
+               },
+               "pinned": false,
+               "selected": false,
+               "status": "complete",
+               "title": "Python for Data Analysis Part 28: Logistic Regression | Life Is Study",
+               "url": "http://hamelg.blogspot.com/2015/11/python-for-data-analysis-part-28.html",
+               "width": 1415,
+               "windowId": 1
+            },
+            {
+               "active": false,
+               "audible": false,
+               "autoDiscardable": true,
+               "discarded": false,
+               "favIconUrl": "https://3gp10c1vpy442j63me73gy3s-wpengine.netdna-ssl.com/wp-content/uploads/fbrfg/favicon.ico",
+               "height": 664,
+               "highlighted": false,
+               "id": 73,
+               "incognito": false,
+               "index": 14,
+               "mutedInfo": {
+                  "muted": false
+               },
+               "pinned": false,
+               "selected": false,
+               "status": "complete",
+               "title": "Multiple Regression using Statsmodels - DataRobot",
+               "url": "https://www.datarobot.com/blog/multiple-regression-using-statsmodels/",
+               "width": 1415,
+               "windowId": 1
+            },
+            {
+               "active": false,
+               "audible": false,
+               "autoDiscardable": true,
+               "discarded": false,
+               "favIconUrl": "https://wiki.python.org/favicon.ico",
+               "height": 664,
+               "highlighted": false,
+               "id": 75,
+               "incognito": false,
+               "index": 15,
+               "mutedInfo": {
+                  "muted": false
+               },
+               "pinned": false,
+               "selected": false,
+               "status": "complete",
+               "title": "ForLoop - Python Wiki",
+               "url": "https://wiki.python.org/moin/ForLoop",
+               "width": 1415,
+               "windowId": 1
+            },
+            {
+               "active": false,
+               "audible": false,
+               "autoDiscardable": true,
+               "discarded": false,
+               "height": 664,
+               "highlighted": false,
+               "id": 77,
+               "incognito": false,
+               "index": 16,
+               "mutedInfo": {
+                  "muted": false
+               },
+               "pinned": false,
+               "selected": false,
+               "status": "complete",
+               "title": "Indexing and Selecting Data — pandas 0.20.3 documentation",
+               "url": "https://pandas.pydata.org/pandas-docs/stable/indexing.html#indexing",
+               "width": 1415,
+               "windowId": 1
+            },
+            {
+               "active": false,
+               "audible": false,
+               "autoDiscardable": true,
+               "discarded": false,
+               "favIconUrl": "http://s.pythonforbeginners.com/static/img/favicon.ico",
+               "height": 664,
+               "highlighted": false,
+               "id": 79,
+               "incognito": false,
+               "index": 17,
+               "mutedInfo": {
+                  "muted": false
+               },
+               "pinned": false,
+               "selected": false,
+               "status": "loading",
+               "title": "String Concatenation and Formatting",
+               "url": "http://www.pythonforbeginners.com/concatenation/string-concatenation-and-formatting-in-python",
+               "width": 1415,
+               "windowId": 1
+            },
+            {
+               "active": false,
+               "audible": false,
+               "autoDiscardable": true,
+               "discarded": false,
+               "favIconUrl": "https://cdn.sstatic.net/Sites/stackoverflow/img/favicon.ico?v=4f32ecc8f43d",
+               "height": 664,
+               "highlighted": false,
+               "id": 81,
+               "incognito": false,
+               "index": 18,
+               "mutedInfo": {
+                  "muted": false
+               },
+               "pinned": false,
+               "selected": false,
+               "status": "complete",
+               "title": "python - Numpy error: Singular matrix - Stack Overflow",
+               "url": "https://stackoverflow.com/questions/13795682/numpy-error-singular-matrix?rq=1",
+               "width": 1415,
+               "windowId": 1
+            }
+         ]
+      }
+   ]
+}
